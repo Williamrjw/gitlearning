@@ -82,6 +82,8 @@ $$
 + [ ] hao
     * [X] hello
 
-[^hello]:hi,这里是一个注脚
+<span id='end'>end</span>
+
+[^hello]:#end
 [liuying]:http:www.baidu.com
 
