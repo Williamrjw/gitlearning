@@ -44,7 +44,7 @@ print ("1")
 
 that's too difficult.
 
-![tupian](weatherimg\暴雪.png "this is a tag")
+![tupian](git.png "this is a tag")
 
 |table|content|1|
 |:----|:-----:|----:|
@@ -63,14 +63,14 @@ _auyfegg_
 ___liuyng___  
 \*\* 正常显示星号 \*\*
 
-$$
+$$  
 123={V}_1\times{v}=
 \frac{\partial v}{\partial x}
 =\begin{vmatrix} 
 1&2\\
 3&4\\
 \end{vmatrix}
-$$
+$$  
 
 ~~liuying~~
 
@@ -85,5 +85,5 @@ $$
 <span id='end'>end</span>
 
 [^hello]:#end
-[liuying]:http:www.baidu.com
+[auyfegg]:http:www.baidu.com
 
