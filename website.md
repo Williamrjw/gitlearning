@@ -44,7 +44,7 @@ print ("1")
 
 that's too difficult.
 
-![tupian](./git.png "this is a tag")
+![tupian](.\git.png "this is a tag")
 
 |table|content|1|
 |:----|:-----:|----:|
