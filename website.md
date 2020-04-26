@@ -44,7 +44,7 @@ print ("1")
 
 that's too difficult.
 
-![tupian](\git.png "this is a tag")
+![tupian](git.png "this is a tag")
 
 |table|content|1|
 |:----|:-----:|----:|
@@ -78,5 +78,5 @@ $$  123={V}_1\times{v}=\frac{\partial v}{\partial x}=\begin{vmatrix} 1&2\\3&4\\\
 <span id='end'>end</span>
 
 [^hello]:#end
-[liuying]:http://www.baidu.com
+[auyfegg]:http:www.baidu.com
 
